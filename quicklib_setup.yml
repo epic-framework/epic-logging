@@ -6,7 +6,7 @@ setup:
     content_type: text/markdown
   author: Uri Sternfeld, Assaf Ben-David, Yonatan Perry
   license: MIT License
-  url: https://github.com/Cybereason/epic-logging
+  url: https://github.com/epic-framework/epic-logging
 
   python_requires: ">=3.10"
   top_packages:

@@ -1,5 +1,5 @@
 # Epic logging &mdash; Easy logging with multiprocessing support
-[![Epic-logging CI](https://github.com/Cybereason/epic-logging/actions/workflows/ci.yml/badge.svg)](https://github.com/Cybereason/epic-logging/actions/workflows/ci.yml)
+[![Epic-logging CI](https://github.com/epic-framework/epic-logging/actions/workflows/ci.yml/badge.svg)](https://github.com/epic-framework/epic-logging/actions/workflows/ci.yml)
 
 
 ## What is it?
