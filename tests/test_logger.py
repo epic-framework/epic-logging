@@ -17,7 +17,7 @@ from epic.logging import (
 
 
 # explicit string (not calculated automatically), for testing
-MODULE_NAME = 'epic.logging.tests.test_logger'
+MODULE_NAME = 'tests.test_logger'
 
 try:
     module_logger = get_logger()
